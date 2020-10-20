@@ -1,0 +1,36 @@
+{
+  "name": "volume-weight-convert-client",
+  "version": "0.0.1",
+  "description": "Recipe helper that converts volume measurements to weight",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "elm-app build",
+    "deploy": "npm run build && firebase deploy --only hosting",
+    "serve": "npm run build && firebase serve --only hosting",
+    "start": "elm-app start",
+    "test": "elm-test",
+    "watch": "elm-test --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jluckyiv/volume-weight-converter.git"
+  },
+  "keywords": [
+    "elm",
+    "elm-lang",
+    "recipe",
+    "volume",
+    "weight",
+    "conversion",
+    "converter"
+  ],
+  "author": "Jackson Lucky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jluckyiv/volume-weight-converter/issues"
+  },
+  "homepage": "https://github.com/jluckyiv/volume-weight-converter#readme"
+}

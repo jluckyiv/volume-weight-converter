@@ -1,0 +1,1598 @@
+[
+  {
+    "ingredient": "All-Purpose Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Almond Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/8",
+    "grams": "96"
+  },
+  {
+    "ingredient": "Almond meal",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "84"
+  },
+  {
+    "ingredient": "Almond paste (packed)",
+    "volume": "1 cup",
+    "ounces": "9 1/8",
+    "grams": "259"
+  },
+  {
+    "ingredient": "Almonds (sliced)",
+    "volume": "1/2 cup",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Almonds (slivered)",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Almonds, whole (unblanched)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Amaranth flour",
+    "volume": "1 cup",
+    "ounces": "3 5/8",
+    "grams": "103"
+  },
+  {
+    "ingredient": "Apples (dried, diced)",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Apples (peeled, sliced)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Applesauce",
+    "volume": "1 cup",
+    "ounces": "9",
+    "grams": "255"
+  },
+  {
+    "ingredient": "Apricots (dried, diced)",
+    "volume": "1/2 cup",
+    "ounces": "2 1/4",
+    "grams": "64"
+  },
+  {
+    "ingredient": "Artisan Bread Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Artisan Bread Topping",
+    "volume": "1/4 cup",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Baker's Cinnamon Filling",
+    "volume": "1 cup",
+    "ounces": "5 3/8",
+    "grams": "152"
+  },
+  {
+    "ingredient": "Baker's Fruit Blend",
+    "volume": "1 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Baker's Special Sugar (superfine sugar, castor sugar)",
+    "volume": "1 cup",
+    "ounces": "6 3/4",
+    "grams": "190"
+  },
+  {
+    "ingredient": "Baking powder",
+    "volume": "1 tea­spoon",
+    "ounces": " ",
+    "grams": "4"
+  },
+  {
+    "ingredient": "Baking soda",
+    "volume": "1/2 tea­spoon",
+    "ounces": " ",
+    "grams": "3"
+  },
+  {
+    "ingredient": "Bananas (mashed)",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Barley (cooked)",
+    "volume": "1 cup",
+    "ounces": "7 5/8",
+    "grams": "215"
+  },
+  {
+    "ingredient": "Barley (pearled)",
+    "volume": "1 cup",
+    "ounces": "7 1/2",
+    "grams": "213"
+  },
+  {
+    "ingredient": "Barley flakes",
+    "volume": "1/2 cup",
+    "ounces": "1 5/8",
+    "grams": "46"
+  },
+  {
+    "ingredient": "Barley flour",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Basil pesto",
+    "volume": "2 table­spoons",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Bell peppers (fresh)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Berries (frozen)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Blueberries (dried)",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Blueberries (fresh)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Blueberry juice",
+    "volume": "1 cup",
+    "ounces": "8 1/2",
+    "grams": "241"
+  },
+  {
+    "ingredient": "Boiled cider",
+    "volume": "1/4 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Bran cereal",
+    "volume": "1 cup",
+    "ounces": "2 1/8",
+    "grams": "60"
+  },
+  {
+    "ingredient": "Bread crumbs (dried)",
+    "volume": "1/4 cup",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Bread crumbs (fresh)",
+    "volume": "1/4 cup",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Bread crumbs (Japanese Panko)",
+    "volume": "1 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Bread Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Brown rice (cooked)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Brown rice flour",
+    "volume": "1 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Brown sugar (dark or light, packed)",
+    "volume": "1 cup",
+    "ounces": "7 1/2",
+    "grams": "213"
+  },
+  {
+    "ingredient": "Buckwheat (whole)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Buckwheat Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Bulgur",
+    "volume": "1 cup",
+    "ounces": "5 3/8",
+    "grams": "152"
+  },
+  {
+    "ingredient": "Butter",
+    "volume": "8 table­spoons (1/2 cup)",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Buttermilk",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Cacao nibs",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Cake Enhancer",
+    "volume": "2 table­spoons",
+    "ounces": "1/2",
+    "grams": "14"
+  },
+  {
+    "ingredient": "Candied peel",
+    "volume": "1/2 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Caramel (14-16 individual pieces, 1\" squares)",
+    "volume": "1/2 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Caramel bits (chopped Heath or toffee)",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Caraway seeds",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Carrots (cooked and puréed)",
+    "volume": "1/2 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Carrots (diced)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Carrots (grated)",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Cashews (chopped)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Cashews (whole)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Celery (diced)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Cheese (Feta)",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Cheese (grated cheddar, jack, mozzarella, or Swiss)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Cheese (grated Parmesan)",
+    "volume": "1/2 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Cheese (Ricotta)",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Cherries (candied)",
+    "volume": "1/4 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Cherries (dried)",
+    "volume": "1/2 cup",
+    "ounces": "2 1/2",
+    "grams": "71"
+  },
+  {
+    "ingredient": "Cherries (fresh, pitted, chopped)",
+    "volume": "1/2 cup",
+    "ounces": "2 7/8",
+    "grams": "80"
+  },
+  {
+    "ingredient": "Cherries (frozen)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Chickpea flour",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Chives (fresh)",
+    "volume": "1/2 cup",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Chocolate (chopped)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Chocolate Chips",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Chocolate Chunks",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Cinnamon Sweet Bits",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "140"
+  },
+  {
+    "ingredient": "Cinnamon-Sugar",
+    "volume": "1/4 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Cocoa (unsweetened)",
+    "volume": "1/2 cup",
+    "ounces": "1 1/2",
+    "grams": "42"
+  },
+  {
+    "ingredient": "Coconut (sweetened, shredded)",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Coconut (unsweetened, large flakes)",
+    "volume": "1 cup",
+    "ounces": "2 1/8",
+    "grams": "60"
+  },
+  {
+    "ingredient": "Coconut (unsweetened, shredded)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Coconut Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Coconut Milk Powder",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Coconut oil",
+    "volume": "1/2 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Coconut sugar",
+    "volume": "1/2 cup",
+    "ounces": "2 3/4",
+    "grams": "77"
+  },
+  {
+    "ingredient": "Confectioners' sugar (unsifted)",
+    "volume": "2 cups",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Cookie crumbs",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Corn (popped)",
+    "volume": "4 cups",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Corn syrup",
+    "volume": "1 cup",
+    "ounces": "11",
+    "grams": "312"
+  },
+  {
+    "ingredient": "Cornmeal (whole)",
+    "volume": "1 cup",
+    "ounces": "4 7/8",
+    "grams": "138"
+  },
+  {
+    "ingredient": "Cornmeal (yellow, Quaker)",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Cornstarch",
+    "volume": "1/4 cup",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Cracked wheat",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "Cranberries (dried)",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Cranberries (fresh or frozen)",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Cream (heavy cream, light cream, or half & half)",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Cream cheese",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Crystallized ginger",
+    "volume": "1/2 cup",
+    "ounces": "3 1/4",
+    "grams": "92"
+  },
+  {
+    "ingredient": "Currants",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Dates (chopped)",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "Demerara sugar",
+    "volume": "1 cup",
+    "ounces": "7 3/4",
+    "grams": "220"
+  },
+  {
+    "ingredient": "Dried Blueberry Powder",
+    "volume": "1/4 cup",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Dried Buttermilk Powder",
+    "volume": "2 table­spoons",
+    "ounces": "7/8",
+    "grams": "25"
+  },
+  {
+    "ingredient": "Dried milk (Baker's Special Dry Milk)",
+    "volume": "1/4 cup",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "Dried nonfat milk (powdered)",
+    "volume": "1/4 cup",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Dried potato flakes (instant mashed potatoes)",
+    "volume": "1/2 cup",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Dried whole milk (powdered)",
+    "volume": "1/2 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Durum Flour",
+    "volume": "1 cup",
+    "ounces": "4 3/8",
+    "grams": "124"
+  },
+  {
+    "ingredient": "Easy Roll Dough Improver",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Egg (fresh)",
+    "volume": "1 large",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Egg white (fresh)",
+    "volume": "1 large",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "Egg whites (dried)",
+    "volume": "2 table­spoons",
+    "ounces": "3/8",
+    "grams": "11"
+  },
+  {
+    "ingredient": "Egg yolk (fresh)",
+    "volume": "1 large",
+    "ounces": "1/2",
+    "grams": "14"
+  },
+  {
+    "ingredient": "Espresso Powder",
+    "volume": "1 table­spoon",
+    "ounces": "1/4",
+    "grams": "7"
+  },
+  {
+    "ingredient": "Figs (dried, chopped)",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "First Clear Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Flax meal",
+    "volume": "1/2 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Flaxseed",
+    "volume": "1/4 cup",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "French-Style Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Fruitcake Fruit Blend",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Garlic (cloves, in skin for roasting)",
+    "volume": "1 large head",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Garlic (minced)",
+    "volume": "2 table­spoons",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Garlic (peeled and sliced)",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "Ginger (fresh, sliced)",
+    "volume": "1/4 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Gluten-Free All-Purpose Baking Mix",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Gluten-Free All-Purpose Flour",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Gluten-Free Measure for Measure Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Graham cracker crumbs (boxed)",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Graham crackers (crushed)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Granola",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Grape Nuts",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Harvest Grains Blend",
+    "volume": "1/2 cup",
+    "ounces": "2 5/8",
+    "grams": "74"
+  },
+  {
+    "ingredient": "Hazelnut flour",
+    "volume": "1 cup",
+    "ounces": "3 1/8",
+    "grams": "89"
+  },
+  {
+    "ingredient": "Hazelnut Praline Paste",
+    "volume": "1/2 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Hazelnut spread",
+    "volume": "1/2 cup",
+    "ounces": "5 5/8",
+    "grams": "160"
+  },
+  {
+    "ingredient": "Hazelnuts (whole)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Hi-Maize Natural Fiber",
+    "volume": "1/4 cup",
+    "ounces": "1 1/8",
+    "grams": "32"
+  },
+  {
+    "ingredient": "High-Gluten Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Honey",
+    "volume": "1 table­spoon",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Instant ClearJel",
+    "volume": "1 table­spoon",
+    "ounces": "3/8",
+    "grams": "11"
+  },
+  {
+    "ingredient": "Irish-Style Flour",
+    "volume": "1 cup",
+    "ounces": "3 7/8",
+    "grams": "110"
+  },
+  {
+    "ingredient": "Italian-Style Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Jam or preserves",
+    "volume": "1/4 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Jammy Bits",
+    "volume": "1 cup",
+    "ounces": "6 1/2",
+    "grams": "184"
+  },
+  {
+    "ingredient": "Key Lime Juice",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Lard",
+    "volume": "1/2 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Leeks (diced)",
+    "volume": "1 cup",
+    "ounces": "3 1/4",
+    "grams": "92"
+  },
+  {
+    "ingredient": "Lemon Juice Powder",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Lime Juice Powder",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Macadamia nuts (whole)",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "Malt syrup",
+    "volume": "2 table­spoons",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Malted Milk Powder",
+    "volume": "1/4 cup",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "Malted Wheat Flakes",
+    "volume": "1/2 cup",
+    "ounces": "2 1/4",
+    "grams": "64"
+  },
+  {
+    "ingredient": "Maple sugar",
+    "volume": "1/2 cup",
+    "ounces": "2 3/4",
+    "grams": "78"
+  },
+  {
+    "ingredient": "Maple syrup",
+    "volume": "1/2 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Marshmallow crème",
+    "volume": "1 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Marshmallow Fluff®",
+    "volume": "1 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Marshmallows (mini)",
+    "volume": "1 cup",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Marzipan",
+    "volume": "1 cup",
+    "ounces": "10 1/8",
+    "grams": "290"
+  },
+  {
+    "ingredient": "Mascarpone cheese",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Mashed potatoes",
+    "volume": "1 cup",
+    "ounces": "7 1/2",
+    "grams": "213"
+  },
+  {
+    "ingredient": "Mayonnaise",
+    "volume": "1/2 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Meringue powder",
+    "volume": "1/4 cup",
+    "ounces": "1 1/2",
+    "grams": "43"
+  },
+  {
+    "ingredient": "Milk (evaporated)",
+    "volume": "1/2 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Milk (fresh)",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Millet (whole)",
+    "volume": "1/2 cup",
+    "ounces": "3 5/8",
+    "grams": "103"
+  },
+  {
+    "ingredient": "Mini chocolate chips",
+    "volume": "1 cup",
+    "ounces": "6 1/4",
+    "grams": "177"
+  },
+  {
+    "ingredient": "Molasses",
+    "volume": "1/4 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Mushrooms (sliced)",
+    "volume": "1 cup",
+    "ounces": "2 3/4",
+    "grams": "78"
+  },
+  {
+    "ingredient": "Non-Diastatic Malt Powder",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Oat bran",
+    "volume": "1/2 cup",
+    "ounces": "1 7/8",
+    "grams": "53"
+  },
+  {
+    "ingredient": "Oat flour",
+    "volume": "1 cup",
+    "ounces": "3 1/4",
+    "grams": "92"
+  },
+  {
+    "ingredient": "Old-fashioned oats (rolled oats)",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Olive oil",
+    "volume": "1/4 cup",
+    "ounces": "1 3/4",
+    "grams": "50"
+  },
+  {
+    "ingredient": "Olives (sliced)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Onions (fresh, diced)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Paleo Baking Flour",
+    "volume": "1 cup",
+    "ounces": "3 5/8",
+    "grams": "104"
+  },
+  {
+    "ingredient": "Palm shortening",
+    "volume": "1/4 cup",
+    "ounces": "1 1/2",
+    "grams": "45"
+  },
+  {
+    "ingredient": "Pasta Flour Blend",
+    "volume": "1 cup",
+    "ounces": "5 1/8",
+    "grams": "145"
+  },
+  {
+    "ingredient": "Pastry Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Pastry Flour Blend",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Peaches (peeled and diced)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Peanut butter",
+    "volume": "1/2 cup",
+    "ounces": "4 3/4",
+    "grams": "135"
+  },
+  {
+    "ingredient": "Peanuts (whole, shelled)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Pears (peeled and diced)",
+    "volume": "1 cup",
+    "ounces": "5 3/4",
+    "grams": "163"
+  },
+  {
+    "ingredient": "Pecan Meal",
+    "volume": "1 cup",
+    "ounces": "2 3/4",
+    "grams": "80"
+  },
+  {
+    "ingredient": "Pecans (diced)",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Pie Filling Enhancer",
+    "volume": "1/4 cup",
+    "ounces": "1 5/8",
+    "grams": "46"
+  },
+  {
+    "ingredient": "Pine nuts",
+    "volume": "1/2 cup",
+    "ounces": "2 1/2",
+    "grams": "71"
+  },
+  {
+    "ingredient": "Pineapple (dried)",
+    "volume": "1/2 cup",
+    "ounces": "2 1/2",
+    "grams": "71"
+  },
+  {
+    "ingredient": "Pineapple (fresh or canned, diced)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Pistachio nuts",
+    "volume": "1/2 cup",
+    "ounces": "2 1/8",
+    "grams": "60"
+  },
+  {
+    "ingredient": "Pistachio Paste",
+    "volume": "1/4 cup",
+    "ounces": "2 3/4",
+    "grams": "78"
+  },
+  {
+    "ingredient": "Pizza Dough Flavor",
+    "volume": "2 tablespoons",
+    "ounces": " ",
+    "grams": "12"
+  },
+  {
+    "ingredient": "Pizza Flour Blend",
+    "volume": "1 cup",
+    "ounces": "4 3/8",
+    "grams": "124"
+  },
+  {
+    "ingredient": "Polenta (coarse ground cornmeal)",
+    "volume": "1 cup",
+    "ounces": "5 3/4",
+    "grams": "163"
+  },
+  {
+    "ingredient": "Poppy seeds",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Potato Flour",
+    "volume": "1/4 cup",
+    "ounces": "1 5/8",
+    "grams": "46"
+  },
+  {
+    "ingredient": "Potato starch",
+    "volume": "1 cup",
+    "ounces": "5 3/8",
+    "grams": "152"
+  },
+  {
+    "ingredient": "Pumpernickel Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Pumpkin (canned)",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Quick cooking oats",
+    "volume": "1 cup",
+    "ounces": "3 1/8",
+    "grams": "89"
+  },
+  {
+    "ingredient": "Quinoa (cooked)",
+    "volume": "1 cup",
+    "ounces": "6 1/2",
+    "grams": "184"
+  },
+  {
+    "ingredient": "Quinoa (whole)",
+    "volume": "1 cup",
+    "ounces": "6 1/4",
+    "grams": "177"
+  },
+  {
+    "ingredient": "Quinoa flour",
+    "volume": "1 cup",
+    "ounces": "3 7/8",
+    "grams": "110"
+  },
+  {
+    "ingredient": "Raisins (loose)",
+    "volume": "1 cup",
+    "ounces": "5 1/4",
+    "grams": "149"
+  },
+  {
+    "ingredient": "Raisins (packed)",
+    "volume": "1/2 cup",
+    "ounces": "3",
+    "grams": "85"
+  },
+  {
+    "ingredient": "Raspberries (fresh)",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Rhubarb (sliced, 1/2\" slices)",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Rice (long grain, dry)",
+    "volume": "1/2 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Rice flour (white)",
+    "volume": "1 cup",
+    "ounces": "5",
+    "grams": "142"
+  },
+  {
+    "ingredient": "Rice Krispies",
+    "volume": "1 cup",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "Rye Bread Improver",
+    "volume": "2 tablespoons",
+    "ounces": " ",
+    "grams": "14"
+  },
+  {
+    "ingredient": "Rye Chops",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Rye flakes",
+    "volume": "1 cup",
+    "ounces": "4 3/8",
+    "grams": "124"
+  },
+  {
+    "ingredient": "Rye Flour",
+    "volume": "1 cup",
+    "ounces": "3 5/8",
+    "grams": "103"
+  },
+  {
+    "ingredient": "Rye Flour Blend",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Salt (Kosher, Diamond Crystal)",
+    "volume": "1 table­spoon",
+    "ounces": " ",
+    "grams": "8"
+  },
+  {
+    "ingredient": "Salt (Kosher, Morton's)",
+    "volume": "1 table­spoon",
+    "ounces": " ",
+    "grams": "16"
+  },
+  {
+    "ingredient": "Salt (table)",
+    "volume": "1 table­spoon",
+    "ounces": " ",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Scallions (sliced)",
+    "volume": "1 cup",
+    "ounces": "2 1/4",
+    "grams": "64"
+  },
+  {
+    "ingredient": "Self-Rising Flour",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Semolina Flour",
+    "volume": "1 cup",
+    "ounces": "5 3/4",
+    "grams": "163"
+  },
+  {
+    "ingredient": "Sesame seeds",
+    "volume": "1/2 cup",
+    "ounces": "2 1/2",
+    "grams": "71"
+  },
+  {
+    "ingredient": "Shallots (peeled and sliced)",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Six-Grain Blend",
+    "volume": "1 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Sorghum flour",
+    "volume": "1 cup",
+    "ounces": "4 7/8",
+    "grams": "138"
+  },
+  {
+    "ingredient": "Sour cream",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Sourdough starter",
+    "volume": "1 cup",
+    "ounces": "8 to 8 1/2",
+    "grams": "227 to 241"
+  },
+  {
+    "ingredient": "Soy flour",
+    "volume": "1/4 cup",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "Sparkling Sugar",
+    "volume": "1/4 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Spelt Flour",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Sprouted Wheat Flour",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Steel cut oats (cooked)",
+    "volume": "1 cup",
+    "ounces": "9",
+    "grams": "255"
+  },
+  {
+    "ingredient": "Steel cut oats (raw)",
+    "volume": "1/2 cup",
+    "ounces": "2 7/8",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Sticky Bun Sugar",
+    "volume": "1 cup",
+    "ounces": "3 1/2",
+    "grams": "99"
+  },
+  {
+    "ingredient": "Strawberries (fresh sliced)",
+    "volume": "1 cup",
+    "ounces": "5 7/8",
+    "grams": "167"
+  },
+  {
+    "ingredient": "Sugar (granulated white)",
+    "volume": "1 cup",
+    "ounces": "7",
+    "grams": "198"
+  },
+  {
+    "ingredient": "Sugar substitute (Splenda)",
+    "volume": "1 cup",
+    "ounces": "7/8",
+    "grams": "25"
+  },
+  {
+    "ingredient": "Sundried tomatoes (dry pack)",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "Sunflower seeds",
+    "volume": "1/4 cup",
+    "ounces": "1 1/4",
+    "grams": "35"
+  },
+  {
+    "ingredient": "Super 10 Blend",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "Sweetened condensed milk",
+    "volume": "1/4 cup",
+    "ounces": "2 3/4",
+    "grams": "78"
+  },
+  {
+    "ingredient": "Tahini paste",
+    "volume": "1/2 cup",
+    "ounces": "4 1/2",
+    "grams": "128"
+  },
+  {
+    "ingredient": "Tapioca starch or flour",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Tapioca (quick cooking)",
+    "volume": "2 table­spoons",
+    "ounces": "3/4",
+    "grams": "21"
+  },
+  {
+    "ingredient": "Teff flour",
+    "volume": "1 cup",
+    "ounces": "4 3/4",
+    "grams": "135"
+  },
+  {
+    "ingredient": "Toasted Almond Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/8",
+    "grams": "96"
+  },
+  {
+    "ingredient": "Toffee chunks",
+    "volume": "1 cup",
+    "ounces": "5 1/2",
+    "grams": "156"
+  },
+  {
+    "ingredient": "Tropical Fruit Blend",
+    "volume": "1 cup",
+    "ounces": "4 1/2 to 5",
+    "grams": "128 to 142"
+  },
+  {
+    "ingredient": "Turbinado sugar (raw)",
+    "volume": "1 cup",
+    "ounces": "6 3/8",
+    "grams": "180"
+  },
+  {
+    "ingredient": "Unbleached Cake Flour",
+    "volume": "1 cup",
+    "ounces": "4 1/4",
+    "grams": "120"
+  },
+  {
+    "ingredient": "Vanilla Extract ",
+    "volume": "1 table­spoon",
+    "ounces": "1/2",
+    "grams": "14"
+  },
+  {
+    "ingredient": "Vegetable oil",
+    "volume": "1 cup",
+    "ounces": "7",
+    "grams": "198"
+  },
+  {
+    "ingredient": "Vegetable shortening",
+    "volume": "1/4 cup",
+    "ounces": "1 5/8",
+    "grams": "46"
+  },
+  {
+    "ingredient": "Vermont Cheese Powder",
+    "volume": "1/2 cup",
+    "ounces": "2",
+    "grams": "57"
+  },
+  {
+    "ingredient": "Vital Wheat Gluten",
+    "volume": "2 table­spoons",
+    "ounces": "5/8",
+    "grams": "18"
+  },
+  {
+    "ingredient": "Walnuts (chopped)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Walnuts (whole)",
+    "volume": "1/2 cup",
+    "ounces": "2 1/4",
+    "grams": "64"
+  },
+  {
+    "ingredient": "Water",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Wheat berries (red)",
+    "volume": "1 cup",
+    "ounces": "6 1/2",
+    "grams": "184"
+  },
+  {
+    "ingredient": "Wheat bran",
+    "volume": "1/2 cup",
+    "ounces": "1 1/8",
+    "grams": "32"
+  },
+  {
+    "ingredient": "Wheat germ",
+    "volume": "1/4 cup",
+    "ounces": "1",
+    "grams": "28"
+  },
+  {
+    "ingredient": "White Chocolate Chips",
+    "volume": "1 cup",
+    "ounces": "6",
+    "grams": "170"
+  },
+  {
+    "ingredient": "White Rye Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/4",
+    "grams": "106"
+  },
+  {
+    "ingredient": "White Whole Wheat Flour",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Whole Grain Flour Blend",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Whole Wheat Flour (Premium 100%)",
+    "volume": "1 cup",
+    "ounces": "4",
+    "grams": "113"
+  },
+  {
+    "ingredient": "Whole Wheat Pastry Flour / Graham Flour",
+    "volume": "1 cup",
+    "ounces": "3 3/8",
+    "grams": "96"
+  },
+  {
+    "ingredient": "Yeast (instant)",
+    "volume": "2 1/4 tea­spoons",
+    "ounces": "1/4",
+    "grams": "7"
+  },
+  {
+    "ingredient": "Yogurt",
+    "volume": "1 cup",
+    "ounces": "8",
+    "grams": "227"
+  },
+  {
+    "ingredient": "Zucchini (shredded)",
+    "volume": "1 cup",
+    "ounces": "5 to 6",
+    "grams": "142 to 170"
+  }
+]
